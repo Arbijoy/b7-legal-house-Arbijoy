@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+.font-garamond{
+    font-family: 'EB Garamond', serif;
+}
+p,.font-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-section{
+    background: url('./images/Rectangle\ 4.png');
+    width: 100%;
+    background-size: cover;
+    height: 550px;
+}
+.question-part{
+    background-color: #F3F3F3;
+}
+.primary-text-color{
+    color: #918b8b;
+}
+.main-btn{
+    background-color: #8f622b;
+}
+.click-btn{
+    color: #B68C5A;
+}
+.b-card:hover{
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0));
+}
+.footer-text{
+    color: #CFCFCF;
+}
+.carousel-background{
+    background-image:url('./images/Rectangle\ 4.png');
+    width: 100%;
+    background-size: cover;
+}
